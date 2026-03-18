@@ -134,7 +134,7 @@ If you're not on Shopify and want to be discoverable by agents, reach out. We'll
 
 ## Status
 
-Early development. Join the waitlist at [openagentcommerce.com](https://openagentcommerce.com).
+Early development. <!--Join the waitlist at [website url](website url).-->
 
 We're looking for:
 
