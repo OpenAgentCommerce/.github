@@ -16,7 +16,7 @@ Add our MCP server to your agent. That's it.
 {
   "mcpServers": {
     "commerce": {
-      "url": "https://mcp.ourdomain.com",
+      "url": "https://mcp.openagentcommerce.dev",
       "headers": {
         "Authorization": "Bearer YOUR_API_KEY"
       }
@@ -118,7 +118,7 @@ If you're on Shopify, you're probably already indexed — we crawl public MCP en
 
 If you're not on Shopify and want to be discoverable by agents, reach out. We'll integrate with your existing payment processor and give you an agent-accessible storefront at no cost. More customers finding your products through their personal agents is a new sales channel with zero CAC.
 
-<!-- merchant link -->
+`merchants@openagentcommerce.dev`
 
 ## Principles
 
@@ -134,7 +134,7 @@ If you're not on Shopify and want to be discoverable by agents, reach out. We'll
 
 ## Status
 
-Early development. <!--Join the waitlist at [website url](website url).-->
+Early development. Join the waitlist at [openagentcommerce.dev](https://openagentcommerce.dev).
 
 We're looking for:
 
